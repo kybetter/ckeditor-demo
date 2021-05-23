@@ -1,4 +1,8 @@
-# editor
+# ckeditor demo
+
+样式布局做成了类似 word 编辑器的效果
+
+![demo](./editor-demo.jpg)
 
 ## Project setup
 ```
